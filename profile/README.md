@@ -10,8 +10,10 @@ Welcome to `BaristaPHP`, your go-to organization for modular PHP solutions. Our 
 
 Here's a glimpse of what we offer:
 
-- [**Laravel Inbox**](https://github.com/BaristaPHP/laravel-inbox/): Simple user-to-user messaging.
-
+- [**Laravel Inbox**](https://github.com/BaristaPHP/inbox-laravel/): 📥 Simple user-to-user messaging.
+- [**Laravel Paymob**](https://github.com/BaristaPHP/paymob-inbox/): 🚀 Paymob API Integration with Laravel
+- [**Laravel Moyasar**](https://github.com/BaristaPHP/moyasar-inbox/): 🚀 Moyasar API Integration with Laravel
+- [**Laravel API Starter**](https://github.com/BaristaPHP/api-starter-laravel/): 🚀 Build your API with docs by one command🔥
 
 ## Contributing
 - We welcome contributions to our projects. If you have suggestions or improvements, please fork the repository and submit a pull request.
